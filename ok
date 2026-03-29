@@ -1,0 +1,51 @@
+[33mcommit 33655ebcf802129d24799e743f71349e43c5e3d9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnuevaramaquenoseparte2[m[33m)[m
+Merge: 5a6eb5d 3d84c6a
+Author: fabian sanchez <luisfabian1331@gmail.com>
+Date:   Sun Mar 29 16:19:36 2026 -0500
+
+    Merge branch 'main' of github.com:luis-s13r/prueba_hack0
+    jdsjf
+    ijd0aodk
+    ajidwejfibui
+
+[33mcommit 3d84c6ac44d7e23230353ed538b506221ed3c25e[m
+Merge: df6ac0b 415fa22
+Author: Joaquin-Llallire <joaquin.llallire@utec.edu.pe>
+Date:   Sun Mar 29 16:10:26 2026 -0500
+
+    Merge pull request #3 from luis-s13r/actualizacion-hola-py
+    
+    Agrega archivo prueba.py
+
+[33mcommit 5a6eb5daf211abd7357b14462b26ebaa554462bb[m
+Author: fabian sanchez <luisfabian1331@gmail.com>
+Date:   Sun Mar 29 16:09:33 2026 -0500
+
+    YAESTOYDEAD
+
+[33mcommit df6ac0bf4803a3e4a076e136465359dd419c6f78[m
+Merge: 44d5e7c 9a39045
+Author: maydelithzuniga <maydelith.zuniga@utec.edu.pe>
+Date:   Sun Mar 29 16:09:14 2026 -0500
+
+    Merge pull request #2 from luis-s13r/maydelith
+    
+    miralo Es nuevo
+
+[33mcommit 9a39045ce89aaae28c4fa52908c805016d29fb5a[m[33m ([m[1;31morigin/maydelith[m[33m)[m
+Author: maydelith <zunigacabreramaydelithlaura@gmail.com>
+Date:   Sun Mar 29 15:48:46 2026 -0500
+
+    Es nuevo
+
+[33mcommit 415fa22c3e4cbc8a4edbe02991459661ee94c41d[m[33m ([m[1;31morigin/actualizacion-hola-py[m[33m, [m[1;31morigin/Prueba2[m[33m)[m
+Author: Joaquín Llallire <joaquin.llallire@utec.edu.pe>
+Date:   Sun Mar 29 15:46:26 2026 -0500
+
+    Agrega archivo prueba.py
+
+[33mcommit 44d5e7c7e30cf787c4f5146df0130a5c5277baf9[m
+Author: Joaquín Llallire <joaquin.llallire@utec.edu.pe>
+Date:   Sun Mar 29 15:20:39 2026 -0500
+
+    primer commit
